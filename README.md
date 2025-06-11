@@ -1,5 +1,7 @@
 
-![image](https://github.com/user-attachments/assets/9753938d-e7d2-4971-8078-20cbe7c5d228)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9753938d-e7d2-4971-8078-20cbe7c5d228" alt="image"/>
+</p>
 
 
 
