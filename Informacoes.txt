@@ -1,0 +1,5 @@
+Link do video deste desenvolvimento
+https://www.youtube.com/watch?v=YVEVrigByKY&t=515s
+
+Comandos iniciais
+npm run dev
